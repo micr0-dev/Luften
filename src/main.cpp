@@ -116,7 +116,7 @@ void loop()
 
 	if (altitude <= 0)
 	{
-		error(4);
+		error(5);
 	}
 
 	// turn the LED off by making the voltage LOW
